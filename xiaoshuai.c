@@ -4,5 +4,6 @@
 
 int main()
 {
+      printrf("Hello China!");
       return 0;
 }
